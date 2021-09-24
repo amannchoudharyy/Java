@@ -1,4 +1,4 @@
-package com.second;
+package com.first;
 
 import java.util.Scanner;
 
